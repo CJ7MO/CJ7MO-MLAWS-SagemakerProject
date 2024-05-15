@@ -1,1 +1,7 @@
+# Ignore the venv
 myenv/
+
+# Ignore the data
+mob_price_classification_train.csv
+test-V-1.csv
+train-V-1.csv
